@@ -1,0 +1,13 @@
+{
+  "name": "devops-fase1",
+  "version": "1.0.0",
+  "description": "Projeto de DevOps fase 1 com CI/CD, IaC e testes automatizados",
+  "main": "src/utils.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Build finalizado com sucesso!'"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
